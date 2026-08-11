@@ -1,5 +1,5 @@
 
-## Hiee👋 I'm Aditya Akolhe
+## Hiee👋 I'm Aditya kolhe
 
 🎓 First-Year B.Tech Student from Maharashtra, India
 
