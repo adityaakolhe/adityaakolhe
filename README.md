@@ -26,7 +26,7 @@
 
 ---
 
-## 🎯 Goals for 2026
+## 🎯 Goals for 2027
 
 - Build 30+ Python Projects
 - Learn Data Structures & Algorithms
