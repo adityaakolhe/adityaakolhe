@@ -28,7 +28,6 @@
 
 ## 🎯 Goals for 2027
 
-- Build 30+ Python Projects
 - Learn Data Structures & Algorithms
 - Contribute to Open Source
 - Create a Strong Developer Portfolio
@@ -37,7 +36,7 @@
 
 ## 📂 Featured Projects
 
-- 🔐 Password Generator
+- 🔐Encoder & Decoder
 - ⏰ Time Stamp Generator
 - 🎲 Number Guessing Game
 - 🧮 Python Calculator
