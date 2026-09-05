@@ -1,49 +1,88 @@
+# Hi, I'm Aditya 👋
 
-## Hiee👋 I'm Aditya kolhe
+### B.Tech Student | Python Developer in Progress | Future AI & Robotics Engineer
 
-🎓 First-Year B.Tech Student from Maharashtra, India
+I'm a first-year B.Tech student exploring the world of **Python, software development, AI, and robotics**.
 
-💻 I am currently learning Python, Git and GitHub.
-
-🤖 I am interested in Artificial Intelligence, Robotics and Software Development.
-
----
-
-## 🚀 Skills
-
-- Python (Beginner)
-- Git
-- GitHub
-- VS Code
+I like learning by **building things**, breaking them, fixing them, and understanding how they actually work.
 
 ---
 
-## 📚 Currently Learning
+## 🛠️ What I Build
 
-- Python Programming
-- Git & GitHub
-- Problem Solving
+Currently, I build small Python projects to strengthen my programming fundamentals:
 
----
+* 🧮 Calculator & utility programs
+* 🎮 Quiz and mini-games
+* 🏧 ATM simulation
+* 🔐 Encoder & decoder
+* 📁 File automation tools
+* 📄 PDF utilities
+* ⚙️ Python automation projects
 
-## 🎯 Goals for 2027
-
-- Learn Data Structures & Algorithms
-- Contribute to Open Source
-- Create a Strong Developer Portfolio
-
----
-
-## 📂 Featured Projects
-
-- 🔐Encoder & Decoder
-- ⏰ Time Stamp Generator
-- 🎲 Number Guessing Game
-- 🧮 Python Calculator
+My goal isn't just to collect repositories — **I want every project to teach me something new.**
 
 ---
 
-⭐ Thanks for visiting my profile!
+## 📚 What I'm Learning
+
+* 🐍 Python
+* 🧱 Object-Oriented Programming
+* 🔀 Git & GitHub
+* 🧠 Problem Solving
+* 📊 Data Structures & Algorithms
+* 🤖 AI / Machine Learning
+* ⚙️ Automation
+
+---
+
+## 🚀 What I'm Working Toward
+
+My long-term goal is to combine **software + AI + robotics** and build useful real-world systems.
+
+### My roadmap
+
+`Python → OOP → DSA → AI/ML → Robotics → Real-world Projects`
+
+I'm currently at the **Python + programming fundamentals** stage, and I'm building my skills one project at a time.
+
+---
+
+## 📈 Currently
+
+```text
+Python          ███████░░░  Learning
+OOP             █████░░░░░░  Learning
+Git & GitHub    ██████░░░░░  Practicing
+DSA             ██░░░░░░░░░  Starting
+AI / ML         █░░░░░░░░░░  Exploring
+Robotics        █░░░░░░░░░░  Future Goal
+```
+
+---
+
+## 💻 Featured Projects
+
+| Project              | What I Practiced                 |
+| -------------------- | -------------------------------- |
+| 🎮 Quiz Game         | Loops, conditions, dictionaries  |
+| 🏧 ATM Machine       | Logic building & input handling  |
+| 🔐 Encoder & Decoder | Strings & algorithms             |
+| 📄 PDF Merger        | File handling & Python libraries |
+| 📁 File Organizer    | `os` module & automation         | # file organiser is not uploaded here...
+
+---
+
+## 🎯 My Philosophy
+
+> **Learn → Build → Break → Debug → Improve → Repeat**
+
+I'm still at the beginning of my journey, but I'm focused on becoming a developer who can **build things independently**, not just follow tutorials.
+
+---
+
+### Let's build something useful. 🚀
+
 <!--
 **adityaakolhe/adityaakolhe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
