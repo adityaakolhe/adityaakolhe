@@ -69,7 +69,7 @@ Robotics        █░░░░░░░░░░  Future Goal
 | 🏧 ATM Machine       | Logic building & input handling  |
 | 🔐 Encoder & Decoder | Strings & algorithms             |
 | 📄 PDF Merger        | File handling & Python libraries |
-| 📁 File Organizer    | `os` module & automation         | # file organiser is not uploaded here...
+| 📁 File Organizer    | `os` module & automation         | file organiser is not uploaded here...
 
 ---
 
